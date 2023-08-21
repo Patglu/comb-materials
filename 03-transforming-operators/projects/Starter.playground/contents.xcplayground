@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' executeOnSourceChanges='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" requires-full-environment="false" version="6.0">
+    <pages>
+        <page name="Starter"/>
+        <page name="Mapping Values"/>
+        <page name="Try Map"/>
+        <page name="Flattening Publihsers"/>
+        <page name="Replacing upstream output "/>
+        <page name="Incrementally transforming output "/>
+        <page name="Challenge"/>
+    </pages>
 </playground>
